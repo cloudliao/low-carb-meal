@@ -1,0 +1,1310 @@
+{
+  "core": [
+    {
+      "id": "bento_01",
+      "name": "泰式無糖打拋豬＋花椰菜米便當",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 白花椰菜米磚 ×1",
+        "[中格] 四季豆菇菇磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "豬絞肉（低脂）",
+          "amount": 120,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸絞肉、牛絞肉"
+        },
+        {
+          "item": "白花椰菜",
+          "amount": 150,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "綠花椰菜碎、板豆腐碎"
+        },
+        {
+          "item": "四季豆",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "玉米筍、甜豌豆"
+        },
+        {
+          "item": "鴻喜菇",
+          "amount": 50,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "香菇、杏鮑菇"
+        },
+        {
+          "item": "九層塔與蒜末",
+          "amount": 15,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "蔥花、洋蔥末"
+        }
+      ],
+      "prepNote": "鐵鍋炒香蒜末辣椒與豬絞肉，加魚露、醬油、檸檬汁收乾（不加糖），放涼入250ml大格。",
+      "reheatNote": "便當盒底鋪花椰菜米磚，放上打拋豬磚與四季豆菇菇磚，微波 3 分半或蒸飯箱加熱。"
+    },
+    {
+      "id": "bento_02",
+      "name": "香煎去骨雞腿排＋定量地瓜便當",
+      "mealType": [
+        "lunch_bento"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠花椰菜磚 ×1",
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "去骨雞腿排",
+          "amount": 150,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸肉、松阪豬"
+        },
+        {
+          "item": "綠花椰菜",
+          "amount": 100,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "四季豆、青江菜"
+        },
+        {
+          "item": "地瓜（定量60g）",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "南瓜 70g、毛豆仁 60g"
+        }
+      ],
+      "prepNote": "雞腿排皮朝下用22cm鐵鍋煎至金黃逼油，灑鹽與黑胡椒切塊，放涼分裝冷凍。",
+      "reheatNote": "取出雞腿排、花椰菜磚與1塊熟凍地瓜裝盒，微波 3 分鐘（噴少許水更嫩）。"
+    },
+    {
+      "id": "bento_03",
+      "name": "番茄義式肉醬起司焗花椰菜便當",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 白花椰菜米磚 ×1",
+        "[中格] 乾炒菇菇磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "牛絞肉（或豬絞肉）",
+          "amount": 120,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸丁、板豆腐丁"
+        },
+        {
+          "item": "牛番茄",
+          "amount": 1,
+          "unit": "顆",
+          "category": "根莖瓜果",
+          "alt": "無糖番茄糊罐頭"
+        },
+        {
+          "item": "洋蔥",
+          "amount": 40,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "西芹丁"
+        },
+        {
+          "item": "起司片",
+          "amount": 1,
+          "unit": "片",
+          "category": "冷藏乳品",
+          "alt": "乳酪絲 15g"
+        }
+      ],
+      "prepNote": "鐵鍋炒香洋蔥與牛番茄丁至糊化，加入絞肉、義式香料與黑胡椒燉煮收汁，放涼入250ml大格。",
+      "reheatNote": "便當底放花椰菜米磚，疊上番茄肉醬磚與起司片，微波 3 分半即成無澱粉焗飯。"
+    },
+    {
+      "id": "bento_04",
+      "name": "蒜泥白肉（梅花肉片）＋毛豆雙蔬便當",
+      "mealType": [
+        "lunch_bento"
+      ],
+      "cookware": "單口湯鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 四季豆菇菇磚 ×1",
+        "[小格] 毛豆仁磚 ×1",
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "豬梅花薄肉片",
+          "amount": 130,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "豬五花片、雞胸片"
+        },
+        {
+          "item": "毛豆仁",
+          "amount": 50,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "黑豆、板豆腐"
+        },
+        {
+          "item": "地瓜（定量60g）",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "芋頭塊 60g"
+        }
+      ],
+      "prepNote": "滾水加薑片與米酒燙熟梅花肉片，瀝乾分裝；醬汁（蒜末＋無糖醬油＋香油）另外小盒裝。",
+      "reheatNote": "便當放肉片、毛豆磚與四季豆磚，蒸飯箱或微波 3 分鐘後淋上蒜蓉醬。"
+    },
+    {
+      "id": "bento_05",
+      "name": "培根高麗菜無麵粉厚烘蛋便當",
+      "mealType": [
+        "lunch_bento",
+        "breakfast"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[小格] 菠菜毛豆配色磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 3,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "鴨蛋"
+        },
+        {
+          "item": "高麗菜",
+          "amount": 100,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "大白菜、櫛瓜絲"
+        },
+        {
+          "item": "培根肉",
+          "amount": 2,
+          "unit": "片",
+          "category": "肉蛋魚豆",
+          "alt": "火腿片、鮪魚罐頭"
+        }
+      ],
+      "prepNote": "22cm鐵鍋煎香培根與冷凍高麗菜絲，倒入打散蛋液與配色磚，加蓋小火烘熟切塊。",
+      "reheatNote": "冷凍切塊烘蛋直接裝入便當，搭配小番茄或無糖豆漿，微波 2 分半即可。"
+    },
+    {
+      "id": "dinner_01",
+      "name": "培根高麗菜快炒櫛瓜＋味噌豆腐湯",
+      "mealType": [
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[冷凍生鮮] 高麗菜片＋櫛瓜片",
+        "[中格] 綠色葉菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "高麗菜",
+          "amount": 120,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "大白菜、青江菜"
+        },
+        {
+          "item": "櫛瓜",
+          "amount": 100,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "大黃瓜、杏鮑菇"
+        },
+        {
+          "item": "培根肉",
+          "amount": 2,
+          "unit": "片",
+          "category": "肉蛋魚豆",
+          "alt": "豬肉絲、雞肉丁"
+        },
+        {
+          "item": "板豆腐",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "嫩豆腐、豆皮"
+        }
+      ],
+      "prepNote": "高麗菜與櫛瓜洗淨擦乾生凍；培根單片捲起冷凍。",
+      "reheatNote": "冷鍋下冷凍培根逼油，免退冰倒入冷凍高麗菜與櫛瓜大火炒 3 分鐘，起鍋前加鹽與黑胡椒。"
+    },
+    {
+      "id": "dinner_02",
+      "name": "番茄蔬菜高湯牛肉（或豬肉）小火鍋",
+      "mealType": [
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠色葉菜磚 ×1",
+        "[中格] 乾炒菇菇磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "火鍋肉片（牛或豬）",
+          "amount": 130,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "去骨雞腿塊、魚片"
+        },
+        {
+          "item": "牛番茄",
+          "amount": 1,
+          "unit": "顆",
+          "category": "根莖瓜果",
+          "alt": "白蘿蔔塊"
+        },
+        {
+          "item": "青江菜（或菠菜）",
+          "amount": 100,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "小白菜、地瓜葉"
+        },
+        {
+          "item": "板豆腐",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "凍豆腐、百頁豆腐"
+        }
+      ],
+      "prepNote": "週末用番茄、洋蔥與高麗菜芯熬無糖蔬菜湯底，分裝 250ml 大格；葉菜燙 30 秒擠乾入 150ml 中格。",
+      "reheatNote": "高湯磚＋半碗水煮滾，下肉片與豆腐煮熟，起鍋前 1 分鐘放入綠色葉菜磚拌散。"
+    },
+    {
+      "id": "dinner_03",
+      "name": "乾炒菇菇洋蔥滑蛋＋清燙蒜香青菜",
+      "mealType": [
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 乾炒菇菇洋蔥磚 ×1",
+        "[中格] 綠色葉菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "香菇與鴻喜菇",
+          "amount": 100,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "杏鮑菇、金針菇"
+        },
+        {
+          "item": "洋蔥",
+          "amount": 50,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "蔥段"
+        },
+        {
+          "item": "雞蛋",
+          "amount": 3,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "蝦仁 80g＋蛋 2 顆"
+        },
+        {
+          "item": "地瓜葉（或空心菜）",
+          "amount": 100,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "青江菜、菠菜"
+        }
+      ],
+      "prepNote": "菇類與洋蔥切絲用鐵鍋乾炒收水，放涼入 150ml 中格冰磚盒。",
+      "reheatNote": "鐵鍋熱油炒熱菇菇冰磚，淋入蛋液小火推成滑蛋；另用滾水快速燙散綠色葉菜磚拌橄欖油。"
+    },
+    {
+      "id": "dinner_04",
+      "name": "蒜香奶油煎鮭魚菲力＋清炒冷凍高麗菜",
+      "mealType": [
+        "dinner",
+        "lunch_bento"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[冷凍生鮮] 高麗菜片"
+      ],
+      "ingredients": [
+        {
+          "item": "鮭魚菲力",
+          "amount": 130,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "無鹽鯖魚片、鱸魚片"
+        },
+        {
+          "item": "高麗菜",
+          "amount": 120,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "綠花椰菜、四季豆"
+        },
+        {
+          "item": "無鹽奶油與蒜頭",
+          "amount": 10,
+          "unit": "g",
+          "category": "冷藏乳品",
+          "alt": "橄欖油 1 大匙"
+        }
+      ],
+      "prepNote": "鮭魚切厚塊擦乾，22cm鐵鍋煎至兩面金黃，關火餘溫融化奶油蒜末與檸檬汁，放涼入 150ml 中格。",
+      "reheatNote": "平底鍋直接下冷凍高麗菜片快炒 2 分鐘，旁邊放鮭魚磚一起加熱回溫即可。",
+      "lunchReheat": "鮭魚磚與高麗菜片裝盒，蓋上蓋子微波 3 分鐘（可噴少許水）。"
+    },
+    {
+      "id": "dinner_05",
+      "name": "無糖泡菜豬肉豆腐鍋＋綠色菜磚",
+      "mealType": [
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠色葉菜磚 ×1",
+        "[冷凍生鮮] 高麗菜片"
+      ],
+      "ingredients": [
+        {
+          "item": "無糖韓式泡菜",
+          "amount": 80,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "無糖白味噌 20g"
+        },
+        {
+          "item": "豬五花（或梅花肉片）",
+          "amount": 120,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞腿肉片、海鮮"
+        },
+        {
+          "item": "板豆腐",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "嫩豆腐"
+        }
+      ],
+      "prepNote": "泡菜與洋蔥炒香加水煮成湯底，放涼分裝 250ml 大格冰磚盒。",
+      "reheatNote": "泡菜湯底磚加半碗水煮滾，下肉片、豆腐與冷凍高麗菜，最後 1 分鐘加綠色菜磚。"
+    },
+    {
+      "id": "bf_01",
+      "name": "生菜培根煎蛋捲＋無糖豆漿",
+      "mealType": [
+        "breakfast"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "30ml小格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[冷藏生鮮] 蘿蔓/美生菜葉"
+      ],
+      "ingredients": [
+        {
+          "item": "美生菜（或蘿蔓）",
+          "amount": 60,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "大陸妹、小黃瓜片"
+        },
+        {
+          "item": "雞蛋",
+          "amount": 2,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "水煮蛋"
+        },
+        {
+          "item": "培根肉",
+          "amount": 2,
+          "unit": "片",
+          "category": "肉蛋魚豆",
+          "alt": "煎雞胸片"
+        }
+      ],
+      "prepNote": "生菜洗淨甩乾包裹廚房紙巾直立冷藏（不可冷凍）。",
+      "reheatNote": "22cm鐵鍋煎熟培根與荷包蛋，用大片生菜直接包起來吃，清爽零澱粉。"
+    },
+    {
+      "id": "bf_02",
+      "name": "毛豆菠菜起司烘蛋＋定量蒸地瓜",
+      "mealType": [
+        "breakfast"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "30ml小格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[小格] 菠菜毛豆配色磚 ×1",
+        "[定量] 熟凍地瓜塊 50g"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 2,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "蛋白液"
+        },
+        {
+          "item": "菠菜",
+          "amount": 50,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "地瓜葉、青江菜"
+        },
+        {
+          "item": "地瓜（定量50g）",
+          "amount": 50,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "無糖豆漿 1 杯"
+        }
+      ],
+      "prepNote": "菠菜燙熟擠乾切碎與毛豆仁混合，裝入 30ml 小格冰磚盒。",
+      "reheatNote": "小格配色磚直接丟入蛋液打散，用 22cm 鐵鍋煎成歐姆蛋，搭配微波熱好的定量地瓜。"
+    },
+    {
+      "id": "mw_01",
+      "name": "微波蒸蛋豆腐肉末盅",
+      "mealType": [
+        "dinner",
+        "lunch_bento"
+      ],
+      "cookware": "微波爐",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠色葉菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 3,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "鴨蛋"
+        },
+        {
+          "item": "嫩豆腐",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "板豆腐"
+        },
+        {
+          "item": "豬絞肉（低脂）",
+          "amount": 80,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞絞肉"
+        },
+        {
+          "item": "蔥花",
+          "amount": 10,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "九層塔"
+        }
+      ],
+      "prepNote": "絞肉用醬油與少許薑末拌勻，冷凍成 150ml 中格肉末磚。",
+      "reheatNote": "耐熱碗放肉末磚與豆腐，淋蛋液加等量水，蓋保鮮膜戳孔，500W 微波約 5～6 分鐘，中途檢查凝固度。",
+      "lunchReheat": "前一晚用微波蒸好冷藏，隔天便當盒蓋上蓋子微波 1～2 分鐘回溫。"
+    },
+    {
+      "id": "mw_02",
+      "name": "微波菇菇起司蛋馬克杯",
+      "mealType": [
+        "breakfast"
+      ],
+      "cookware": "微波爐",
+      "brickSpec": {
+        "size": "30ml小格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 乾炒菇菇洋蔥磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 2,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "蛋白液"
+        },
+        {
+          "item": "香菇與鴻喜菇",
+          "amount": 50,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "杏鮑菇"
+        },
+        {
+          "item": "起司片",
+          "amount": 1,
+          "unit": "片",
+          "category": "冷藏乳品",
+          "alt": "乳酪絲 15g"
+        }
+      ],
+      "prepNote": "菇類乾炒收水後冷凍成菇菇磚。",
+      "reheatNote": "馬克杯放菇菇磚，倒入打散蛋液與起司片，蓋盤子微波約 1 分 30 秒至 2 分鐘，不要用密封蓋。"
+    },
+    {
+      "id": "af_01",
+      "name": "氣炸香料雞腿排＋氣炸綠花椰",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "氣炸鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "去骨雞腿排",
+          "amount": 150,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸肉（較易乾柴）"
+        },
+        {
+          "item": "綠花椰菜",
+          "amount": 120,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "四季豆"
+        },
+        {
+          "item": "地瓜（定量60g）",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "南瓜 70g"
+        }
+      ],
+      "prepNote": "雞腿排用鹽、黑胡椒、蒜粉醃 30 分鐘；氣炸鍋 180°C 雞腿排皮朝上約 12～15 分鐘、中途翻面，花椰菜最後 5 分鐘加入，熟度以肉中心無粉紅為準，放涼分裝冷凍。",
+      "reheatNote": "冷凍取出，氣炸鍋 160°C 回烤約 5～7 分鐘至中心熱透。",
+      "lunchReheat": "便當盒搭配地瓜塊，微波 3 分鐘，雞腿排可噴少許水保濕。"
+    },
+    {
+      "id": "af_02",
+      "name": "氣炸檸檬鮭魚＋櫛瓜條",
+      "mealType": [
+        "dinner",
+        "lunch_bento"
+      ],
+      "cookware": "氣炸鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[冷凍生鮮] 櫛瓜片"
+      ],
+      "ingredients": [
+        {
+          "item": "鮭魚菲力",
+          "amount": 130,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "鯖魚片、鯛魚片"
+        },
+        {
+          "item": "櫛瓜",
+          "amount": 120,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "杏鮑菇"
+        },
+        {
+          "item": "檸檬",
+          "amount": 0.5,
+          "unit": "顆",
+          "category": "根莖瓜果",
+          "alt": "無糖檸檬汁"
+        }
+      ],
+      "prepNote": "鮭魚擦乾抹鹽與黑胡椒，氣炸鍋 180°C 約 8～10 分鐘，櫛瓜條最後 5 分鐘加入，起鍋擠檸檬汁，放涼冷凍。",
+      "reheatNote": "氣炸鍋 160°C 回烤約 4～6 分鐘，鮭魚勿過度加熱。",
+      "lunchReheat": "裝盒蓋上蓋子，微波 2～3 分鐘（中低火力較不乾柴）。"
+    },
+    {
+      "id": "af_03",
+      "name": "氣炸培根蛋杯",
+      "mealType": [
+        "breakfast"
+      ],
+      "cookware": "氣炸鍋",
+      "brickSpec": {
+        "size": "30ml小格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[小格] 菠菜毛豆配色磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 2,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "蛋白液"
+        },
+        {
+          "item": "培根肉",
+          "amount": 2,
+          "unit": "片",
+          "category": "肉蛋魚豆",
+          "alt": "火腿片"
+        },
+        {
+          "item": "菠菜",
+          "amount": 40,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "地瓜葉"
+        }
+      ],
+      "prepNote": "菠菜燙熟擠乾切碎與毛豆仁混合，裝入小格冰磚盒冷凍。",
+      "reheatNote": "耐熱杯（或鋁箔杯）放培根與配色磚，打入蛋，氣炸鍋 170°C 約 8～10 分鐘，依喜好調整蛋黃熟度。"
+    },
+    {
+      "id": "pc_01",
+      "name": "壓力鍋無糖滷雞腿＋滷豆腐",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "壓力鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠花椰菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "棒棒腿（或雞腿塊）",
+          "amount": 200,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "豬腱肉"
+        },
+        {
+          "item": "板豆腐",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "豆干（無糖）"
+        },
+        {
+          "item": "無糖醬油與八角",
+          "amount": 20,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "薑片＋蔥段"
+        }
+      ],
+      "prepNote": "雞腿與豆腐加醬油、八角、薑與水（不加糖），壓力鍋高壓約 12～15 分鐘，洩壓後放涼入 250ml 大格。",
+      "reheatNote": "便當搭配綠花椰菜磚，微波 3～4 分鐘至中心熱透。"
+    },
+    {
+      "id": "pc_02",
+      "name": "壓力鍋番茄牛肉蔬菜湯磚",
+      "mealType": [
+        "dinner"
+      ],
+      "cookware": "壓力鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠色葉菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "牛腱（或牛腩）",
+          "amount": 150,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "豬腱肉"
+        },
+        {
+          "item": "牛番茄",
+          "amount": 1,
+          "unit": "顆",
+          "category": "根莖瓜果",
+          "alt": "無糖番茄糊"
+        },
+        {
+          "item": "洋蔥",
+          "amount": 50,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "西芹"
+        },
+        {
+          "item": "白蘿蔔",
+          "amount": 80,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "高麗菜芯"
+        }
+      ],
+      "prepNote": "牛肉先汆燙去血水，與番茄、洋蔥、蘿蔔加水，壓力鍋高壓約 25～30 分鐘，放涼分裝入 250ml 大格。",
+      "reheatNote": "冰磚加少許水煮滾，起鍋前 1 分鐘放入綠色葉菜磚。"
+    },
+    {
+      "id": "pc_03",
+      "name": "壓力鍋溏心蛋＋毛豆（快速早餐）",
+      "mealType": [
+        "breakfast"
+      ],
+      "cookware": "壓力鍋",
+      "brickSpec": {
+        "size": "30ml小格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[小格] 毛豆仁磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 3,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "鴨蛋"
+        },
+        {
+          "item": "毛豆仁",
+          "amount": 40,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "黑豆"
+        }
+      ],
+      "prepNote": "雞蛋可一次煮多顆；水煮蛋放冰水後帶殼冷藏，3 天內吃完。",
+      "reheatNote": "毛豆仁磚微波 1 分鐘；蛋依自家壓力鍋說明書的蛋類模式設定時間（各機型差異大，請先小量試做）。"
+    },
+    {
+      "id": "af_04",
+      "name": "氣炸蒜香豬里肌＋四季豆便當",
+      "mealType": [
+        "lunch_bento"
+      ],
+      "cookware": "氣炸鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 四季豆菇菇磚 ×1",
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "豬里肌厚切片",
+          "amount": 140,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸肉、雞腿排"
+        },
+        {
+          "item": "四季豆",
+          "amount": 80,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "玉米筍、甜豌豆"
+        },
+        {
+          "item": "地瓜（定量60g）",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "南瓜 70g"
+        },
+        {
+          "item": "蒜末",
+          "amount": 10,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "洋蔥末"
+        }
+      ],
+      "prepNote": "里肌拍鬆，用鹽、黑胡椒與蒜末醃 20 分鐘；氣炸鍋 180°C 約 10～12 分鐘，中途翻面，放涼冷凍。",
+      "reheatNote": "便當盒搭配四季豆磚與地瓜塊，微波 3 分鐘，豬排可噴少許水保濕。"
+    },
+    {
+      "id": "mw_03",
+      "name": "微波薑絲蒸鯛魚＋花椰菜便當",
+      "mealType": [
+        "lunch_bento"
+      ],
+      "cookware": "微波爐",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠花椰菜磚 ×1",
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "鯛魚片（或鱸魚片）",
+          "amount": 130,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "鱈魚片"
+        },
+        {
+          "item": "薑絲",
+          "amount": 10,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "蔥絲"
+        },
+        {
+          "item": "地瓜（定量60g）",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "南瓜 70g"
+        }
+      ],
+      "prepNote": "魚片擦乾，用薑絲、鹽與少許米酒醃 10 分鐘，放耐熱盤蓋保鮮膜戳孔，500W 微波約 3～4 分鐘至中心熟透（依厚度調整），放涼冷凍。",
+      "reheatNote": "便當盒搭配花椰菜磚與地瓜塊，蓋上蓋子微波 2～3 分鐘，魚肉怕乾可加 1 小匙水。"
+    },
+    {
+      "id": "pc_04",
+      "name": "壓力鍋鹽蔥嫩雞腿＋花椰菜便當",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "壓力鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠花椰菜磚 ×1",
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "去骨雞腿肉",
+          "amount": 160,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸肉"
+        },
+        {
+          "item": "蔥",
+          "amount": 20,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "洋蔥絲"
+        },
+        {
+          "item": "薑",
+          "amount": 10,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "蒜片"
+        },
+        {
+          "item": "地瓜（定量60g）",
+          "amount": 60,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "南瓜 70g"
+        }
+      ],
+      "prepNote": "雞腿肉加薑、蔥、鹽與少許米酒和水，壓力鍋高壓約 8～10 分鐘（依機型），洩壓後放涼切塊冷凍。",
+      "reheatNote": "便當盒搭配花椰菜磚與地瓜塊，微波 3 分鐘，淋少許湯汁更嫩。"
+    },
+    {
+      "id": "pc_05",
+      "name": "壓力鍋無糖滷蛋＋豆干香菇便當",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "壓力鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 四季豆菇菇磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "雞蛋",
+          "amount": 2,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "鵪鶉蛋"
+        },
+        {
+          "item": "無糖豆干",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "板豆腐"
+        },
+        {
+          "item": "乾香菇",
+          "amount": 15,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "鴻喜菇"
+        },
+        {
+          "item": "無糖醬油與八角",
+          "amount": 20,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "薑片＋蔥段"
+        }
+      ],
+      "prepNote": "雞蛋、豆干與泡軟的香菇加無糖醬油、八角與水，壓力鍋高壓約 8～10 分鐘（蛋類時間依機型），洩壓後浸泡入味，放涼分裝冷凍。",
+      "reheatNote": "便當盒搭配四季豆磚，微波 2～3 分鐘；蛋可切半避免微波爆裂。"
+    }
+  ],
+  "hidden": [
+    {
+      "id": "unlock_01",
+      "name": "剝皮辣椒雞肉清湯磚（無糖控醣版）",
+      "mealType": [
+        "dinner",
+        "lunch_bento"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠色葉菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "去骨雞腿切塊",
+          "amount": 140,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "雞胸切塊"
+        },
+        {
+          "item": "剝皮辣椒（選低糖款）",
+          "amount": 30,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "老薑片＋枸杞"
+        },
+        {
+          "item": "鴻喜菇",
+          "amount": 50,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "香菇"
+        }
+      ],
+      "prepNote": "雞腿塊乾煎逼油後加水、剝皮辣椒（少用湯汁控糖）與菇類煮滾 8 分鐘，放涼入 250ml 大格。",
+      "reheatNote": "冰磚加少許水煮滾，起鍋前丟入綠色葉菜磚即可。",
+      "lunchReheat": "冰磚與綠色葉菜磚放入耐熱湯碗，加少許水蓋盤，微波 3～4 分鐘，取出攪拌確認熱透。"
+    },
+    {
+      "id": "unlock_02",
+      "name": "破布子水煎虱目魚肚便當",
+      "mealType": [
+        "lunch_bento"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 四季豆菇菇磚 ×1",
+        "[定量] 熟凍地瓜塊 60g"
+      ],
+      "ingredients": [
+        {
+          "item": "無刺虱目魚肚",
+          "amount": 1,
+          "unit": "片",
+          "category": "肉蛋魚豆",
+          "alt": "白帶魚段、鯛魚片"
+        },
+        {
+          "item": "無糖破布子",
+          "amount": 15,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "蔭冬瓜 15g"
+        },
+        {
+          "item": "老薑",
+          "amount": 10,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "蔥段"
+        }
+      ],
+      "prepNote": "22cm鐵鍋將魚皮面煎香，倒入破布子、薑絲與少許水加蓋水煎 4 分鐘收汁，放涼入 150ml 中格。",
+      "reheatNote": "便當搭配四季豆磚與地瓜塊，蓋上蓋子微波 3 分鐘，魚肉不易乾柴（也可用蒸飯箱）。"
+    },
+    {
+      "id": "unlock_03",
+      "name": "沙茶空心菜炒牛肉（無勾芡低碳版）",
+      "mealType": [
+        "dinner",
+        "lunch_bento"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 白花椰菜米磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "牛肉片",
+          "amount": 120,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "豬里肌片、羊肉片"
+        },
+        {
+          "item": "空心菜（取梗與厚葉）",
+          "amount": 120,
+          "unit": "g",
+          "category": "葉菜與花椰",
+          "alt": "青江菜、芥藍菜"
+        },
+        {
+          "item": "沙茶醬（只取固體少油）",
+          "amount": 10,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "蒜末＋醬油"
+        }
+      ],
+      "prepNote": "牛肉片先用醬油與米酒抓醃炒至 7 分熟盛起，放涼分裝冷凍（不加太白粉勾芡）。空心菜不冷凍（冷凍後易軟爛變黑），請洗淨擦乾、以廚房紙巾包好冷藏，2～3 天內當天現炒；便當版改搭花椰菜米磚或四季豆磚。",
+      "reheatNote": "鐵鍋爆香蒜末與沙茶，快炒空心菜後倒入牛肉片拌勻 1 分鐘即起鍋。",
+      "lunchReheat": "牛肉磚與花椰菜米磚裝盒，微波 2～3 分鐘；沙茶醬事先拌入肉片一起冷凍。"
+    },
+    {
+      "id": "unlock_04",
+      "name": "麻油杏鮑菇松阪豬＋花椰菜便當",
+      "mealType": [
+        "lunch_bento",
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[中格] 綠花椰菜磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "松阪豬（或豬里肌）",
+          "amount": 120,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "去骨雞腿肉"
+        },
+        {
+          "item": "杏鮑菇",
+          "amount": 80,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "秀珍菇、香菇"
+        },
+        {
+          "item": "純黑麻油與老薑",
+          "amount": 10,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "苦茶油"
+        }
+      ],
+      "prepNote": "22cm鐵鍋小火煸薑片，下杏鮑菇乾炒出水氣後加松阪豬煎香，嗆米酒與鹽調味，放涼入 150ml 中格。",
+      "reheatNote": "便當搭配綠花椰菜磚，微波 3 分鐘香氣十足。"
+    },
+    {
+      "id": "unlock_05",
+      "name": "味噌豆腐洋蔥煮鯖魚鍋",
+      "mealType": [
+        "dinner"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "250ml大格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[冷凍生鮮] 高麗菜片"
+      ],
+      "ingredients": [
+        {
+          "item": "無鹽鯖魚片",
+          "amount": 1,
+          "unit": "片",
+          "category": "肉蛋魚豆",
+          "alt": "鮭魚塊、鯛魚片"
+        },
+        {
+          "item": "板豆腐",
+          "amount": 100,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "嫩豆腐"
+        },
+        {
+          "item": "無糖白味噌",
+          "amount": 15,
+          "unit": "g",
+          "category": "菇類與常備",
+          "alt": "赤味噌"
+        }
+      ],
+      "prepNote": "22cm鐵鍋煎香鯖魚塊，炒軟洋蔥絲後加水與豆腐煮滾，熄火溶入味噌再煮 2 分鐘，放涼入 250ml 大格。",
+      "reheatNote": "鐵鍋放冰磚加半碗水煮滾，丟入冷凍高麗菜片煮軟即可。"
+    },
+    {
+      "id": "unlock_06",
+      "name": "櫛瓜蝦仁起司烘蛋便當",
+      "mealType": [
+        "lunch_bento",
+        "breakfast"
+      ],
+      "cookware": "22cm鐵鍋",
+      "brickSpec": {
+        "size": "150ml中格",
+        "count": 1
+      },
+      "extraBricks": [
+        "[小格] 毛豆仁磚 ×1"
+      ],
+      "ingredients": [
+        {
+          "item": "蝦仁",
+          "amount": 80,
+          "unit": "g",
+          "category": "肉蛋魚豆",
+          "alt": "花枝圈、雞胸丁"
+        },
+        {
+          "item": "櫛瓜",
+          "amount": 80,
+          "unit": "g",
+          "category": "根莖瓜果",
+          "alt": "綠花椰菜碎"
+        },
+        {
+          "item": "雞蛋",
+          "amount": 2,
+          "unit": "顆",
+          "category": "肉蛋魚豆",
+          "alt": "鴨蛋"
+        }
+      ],
+      "prepNote": "22cm鐵鍋煎香櫛瓜片與蝦仁，倒入蛋液與起司粉烘熟切塊，放涼冷凍。",
+      "reheatNote": "便當搭配毛豆仁磚，微波 2 分半即可享用。"
+    }
+  ]
+}
